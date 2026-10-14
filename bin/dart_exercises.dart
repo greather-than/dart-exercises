@@ -11,4 +11,10 @@ void main() {
   int studyHours = studyMinutes ~/ 60; // Integer Division: Whole hours
   int leftoverMinutes = studyMinutes % 60; // Remainder
   quizzesTaken++;
+
+  print('Student: $studentName');
+  print('Average Score: $averageScore');
+  print('Passing? $isPassing');
+  print('Study Time: $studyHours hours and $leftoverMinutes minutes');
+  print('Quizzes taken after the new one: $quizzesTaken');
 }
