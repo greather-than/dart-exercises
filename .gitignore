@@ -1,3 +1,8 @@
 # https://dart.dev/tools/private-files
 # Created by `dart pub`
 .dart_tool/
+.idea/
+lib/
+test/
+CHANGELOG.md
+analysis_options.yaml
