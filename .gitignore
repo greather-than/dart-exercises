@@ -6,3 +6,4 @@ lib/
 test/
 CHANGELOG.md
 analysis_options.yaml
+pubspec.lock
